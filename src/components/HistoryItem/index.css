@@ -1,0 +1,38 @@
+.list-card-container {
+  display: flex;
+  height: auto;
+  width: auto;
+}
+
+.date-card {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.history-info-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 6%;
+  width: auto;
+}
+
+.time-card {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+}
+
+.btn-card {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  background-color: #ffffff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
